@@ -1,0 +1,5 @@
+- Changement de la composition de l'équipe
+- Suite de la familiarisation avec le langage
+- Choix des librairies à étudier
+- Mise en place d'outils permettant de collaborer
+- Visionnage de quelques vidéos sur Pharo
